@@ -1,5 +1,5 @@
 # abcl-jmathplot
-### _Alejandro Zamora Fonseca <ale2014.zamora@egmail.com>_
+### _Alejandro Zamora Fonseca <ale2014.zamora@gmail.com>_
 
 A simple wrapper for the JMathPlot library using ABCL
 
