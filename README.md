@@ -5,12 +5,15 @@ A simple wrapper for the JMathPlot library using ABCL
 
 Quickstart
 
+Clone this repository to your Quicklisp local-projects (or other discoverable) folder
 
 ```
 CL-USER> (require :abcl-contrib)
 NIL
 CL-USER> (require :abcl-asdf)
 ("ABCL-ASDF")
+CL-USER> (asdf:load-system :quicklisp-abcl)
+T
 CL-USER> (ql:quickload :abcl-jmathplot)
 To load "abcl-jmathplot":
   Load 1 ASDF system:
